@@ -1,0 +1,14 @@
+[
+    { 
+        "Nombre": "Usuario",
+        "Clave": "123"
+    },
+    { 
+        "Nombre": "IPCB",
+        "Clave": "456"
+    },
+    { 
+        "Nombre": "IPCA",
+        "Clave": "789"
+    }
+]

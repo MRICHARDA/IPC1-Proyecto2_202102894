@@ -1,0 +1,107 @@
+[
+    {
+        "Nombre": "Bulbasaur",
+        "Id": "1",
+        "Tipo": "Planta",
+        "Fondo": "bg-success",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    {
+        "Nombre": "Oddish",
+        "Id": "43",
+        "Tipo": "Planta",
+        "Fondo": "bg-success",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"        
+    },
+    {
+        "Nombre": "Venasaur",
+        "Id": "3",
+        "Tipo": "Planta",
+        "Fondo": "bg-success",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"        
+    },
+    {
+        "Nombre": "Chikorita",
+        "Id": "152",
+        "Tipo": "Planta",
+        "Fondo": "bg-success",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png"        
+    },
+    {
+        "Nombre": "Gloom",
+        "Id": "44",
+        "Tipo": "Planta",
+        "Fondo": "bg-success",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"        
+    },
+    {
+        "Nombre": "Wartortle",
+        "Id": "8",
+        "Tipo": "Agua",
+        "Fondo": "bg-info",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+    },
+    {
+        "Nombre": "Greninja",
+        "Id": "658",
+        "Tipo": "Agua",
+        "Fondo": "bg-info",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png"
+    },
+    {
+        "Nombre": "Squirtle",
+        "Id": "7",
+        "Tipo": "Agua",
+        "Fondo": "bg-info",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    {
+        "Nombre": "Blastoise",
+        "Id": "9",
+        "Tipo": "Agua",
+        "Fondo": "bg-info",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+    },
+    {
+        "Nombre": "Staryiu",
+        "Id": "120",
+        "Tipo": "Agua",
+        "Fondo": "bg-info",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
+    },
+    {
+        "Nombre": "Charmander",
+        "Id": "4",
+        "Tipo": "Fuego",
+        "Fondo": "bg-danger",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    },
+    {
+        "Nombre": "Magmar",
+        "Id": "4",
+        "Tipo": "Fuego",
+        "Fondo": "bg-danger",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png"
+    },
+    {
+        "Nombre": "Charizard",
+        "Id": "4",
+        "Tipo": "Fuego",
+        "Fondo": "bg-danger",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    {
+        "Nombre": "Flareon",
+        "Id": "4",
+        "Tipo": "Fuego",
+        "Fondo": "bg-danger",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png"
+    },
+    {
+        "Nombre": "Arcanine",
+        "Id": "59",
+        "Tipo": "Fuego",
+        "Fondo": "bg-danger",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+    }
+]
