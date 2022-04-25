@@ -9,6 +9,7 @@ import { PokemonService } from 'src/app/servicio/pokemon.service';
 })
 export class PantallaPokemonComponent implements OnInit {
   pokemons:any = [];
+  Nombre = localStorage.getItem("nombre");
   public buscaformu !:FormGroup;
   
   constructor(private formBuilder: FormBuilder,private pokeService:PokemonService) { }

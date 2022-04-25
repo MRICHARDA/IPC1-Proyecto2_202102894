@@ -27,6 +27,7 @@ export class PantallaLoginComponent implements OnInit {
       var Usuario = res.find((usuario:any) => usuario.Nombre === this.Loginformu.value.Usuario);
       if(typeof Usuario === "object"){ 
         if(Usuario.Clave === this.Loginformu.value.Clave){
+          localStorage.setItem("nombre", Usuario.Nombre);
           this.router.navigateByUrl("/pokeapi");
         }else{
           alert("El Usuario o CLave son incorrectas");
